@@ -1,0 +1,10 @@
+pymilvus
+sentence-transformers
+openai
+python-dotenv
+numpy
+pandas
+pytest
+fastapi
+uvicorn
+qdrant-client 
