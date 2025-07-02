@@ -13,7 +13,7 @@ This project implements a simple Retrieval-Augmented Generation (RAG) pipeline u
 
 ## Project Structure
 ```
-python course/
+Simple-RAG-with-Qdrant/
 ├── data/                # Place your .txt files here
 ├── ingest.py            # Ingestion pipeline (Qdrant)
 ├── query.py             # Query pipeline (Qdrant + OpenAI)
